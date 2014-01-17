@@ -1,0 +1,12 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {setOrpho = id; setPerspective = id; }; 
+            CLASS = CocoaView; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSOpenGLView; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}
